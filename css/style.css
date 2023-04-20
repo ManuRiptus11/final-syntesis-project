@@ -142,3 +142,21 @@ footer a:hover {
 .tabcontent {
   animation: fadeEffect 1s; /* Fading effect takes 1 second */
 }
+#rata {
+  display: block;
+  margin-left: 180px;
+  margin-right: 0px;
+  filter: grayscale(0%) drop-Shadow(15px 15px);
+}
+#rata2 {
+  display: block;
+  margin-left: 180px;
+  margin-right: 0px;
+  filter: grayscale(0%) drop-Shadow(15px 15px);
+}
+#rata3 {
+  display: block;
+  margin-left: 180px;
+  margin-right: 0px;
+  filter: grayscale(0%) drop-Shadow(15px 15px);
+}
